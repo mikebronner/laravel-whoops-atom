@@ -1,0 +1,36 @@
+{
+    "name": "genealabs/laravel-whoops-atom",
+    "description": "Open Whoops Stack Trace in Atom Editor.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Bronner",
+            "email": "hello@genealabs.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "illuminate/support": ">=5.5.25"
+    },
+    "require-dev": {
+        "laravel/laravel": ">=5.5.22",
+        "mockery/mockery": "0.9.*",
+        "phpmd/phpmd": "^2.6",
+        "phpunit/phpunit": "5.7.*",
+        "satooshi/php-coveralls" : "*",
+        "sebastian/phpcpd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "GeneaLabs\\LaravelWhoopsAtom\\": "src/",
+            "GeneaLabs\\LaravelWhoopsAtom\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GeneaLabs\\LaravelWhoopsAtom\\Providers\\Service"
+            ]
+        }
+    }
+}
