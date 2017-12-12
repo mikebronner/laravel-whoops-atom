@@ -1,4 +1,4 @@
-<?php namespace GeneaLabs\LaravelCaffeine\Providers;
+<?php namespace GeneaLabs\LaravelWhoopsAtom\Providers;
 
 use GeneaLabs\LaravelWhoopsAtom\Console\Commands\Publish;
 use Illuminate\Support\ServiceProvider;
