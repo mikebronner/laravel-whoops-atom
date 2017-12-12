@@ -3,16 +3,12 @@
 Provide a method to open stack trace files from the Whoops error page, like is
 available for some other editors.
 
-## Implementation
-
-## Reasoning
-
+## Installation
 ### Dependencies
 - Laravel 5.5.25 or greater
 - PHP 7.0.0 or higher
 - Atom Protocol Handler
 
-## Installation
 1. Install the package:
    ```sh
    composer require genealabs/laravel-whoops-atom
