@@ -16,9 +16,14 @@ class Service extends ServiceProvider
 
         config([
             'app.editor' => function ($file, $line) {
-                $homstead = rtrim(config('genealabs-laravel-whoops-atom.homestead-sites-path'), '/');
-                $local = rtrim(config('genealabs-laravel-whoops-atom.homestead-local-path'), '/');
-                $file = str_replace("{$homstead}/", "{$local}/", $file);
+                $homestead = rtrim(config('genealabs-laravel-whoops-atom.homestead-sites-path'), '/');
+                $local = rtrim(config('genealabs-laravel-whoops-atom.local-sites-path'), '/');
+
+                if (! $local) {
+                    return '';
+                }
+
+                $file = str_replace("{$homestead}/", "{$local}/", $file);
 
                 return "atm://open?url=file://{$file}&line={$line}";
             },
