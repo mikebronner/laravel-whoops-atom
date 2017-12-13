@@ -1,3 +1,5 @@
+![laravel-whoops-atom](https://user-images.githubusercontent.com/1791050/33916828-cc12f3dc-df5f-11e7-94fd-1eabda15613c.png)
+
 # Whoops-Atom for Laravel
 ## Goal
 Provide a method to open stack trace files from the Whoops error page, like is
