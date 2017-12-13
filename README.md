@@ -1,6 +1,14 @@
 ![laravel-whoops-atom](https://user-images.githubusercontent.com/1791050/33916828-cc12f3dc-df5f-11e7-94fd-1eabda15613c.png)
 
 # Whoops-Atom for Laravel
+[![Join the chat at https://gitter.im/GeneaLabs/laravel-whoops-atom](https://badges.gitter.im/GeneaLabs/laravel-whoops-atom.svg)](https://gitter.im/GeneaLabs/laravel-whoops-atom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/8a832dfd-f86d-44dd-b15c-89ad324a54a2.svg)](https://insight.sensiolabs.com/projects/8a832dfd-f86d-44dd-b15c-89ad324a54a2)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/GeneaLabs/laravel-whoops-atom.svg)](https://scrutinizer-ci.com/g/GeneaLabs/laravel-whoops-atom)
+[![GitHub (pre-)release](https://img.shields.io/github/release/GeneaLabs/laravel-whoops-atom/all.svg)](https://github.com/GeneaLabs/laravel-whoops-atom)
+[![Packagist](https://img.shields.io/packagist/dt/GeneaLabs/laravel-whoops-atom.svg)](https://packagist.org/packages/genealabs/laravel-whoops-atom)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/GeneaLabs/laravel-whoops-atom/master/LICENSE)
+
+
 ## Goal
 Provide a method to open stack trace files from the Whoops error page, like is
 available for some other editors.
