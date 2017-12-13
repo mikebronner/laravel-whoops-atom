@@ -2,6 +2,8 @@
 
 # Whoops-Atom for Laravel
 ## Goal
+
+[![Join the chat at https://gitter.im/GeneaLabs/laravel-whoops-atom](https://badges.gitter.im/GeneaLabs/laravel-whoops-atom.svg)](https://gitter.im/GeneaLabs/laravel-whoops-atom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Provide a method to open stack trace files from the Whoops error page, like is
 available for some other editors.
 
