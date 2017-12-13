@@ -2,7 +2,7 @@
 
 # Whoops-Atom for Laravel
 [![Join the chat at https://gitter.im/GeneaLabs/laravel-whoops-atom](https://badges.gitter.im/GeneaLabs/laravel-whoops-atom.svg)](https://gitter.im/GeneaLabs/laravel-whoops-atom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/45afb680-d4e6-4e66-93ea-bcfa79eb8a87.svg)](https://insight.sensiolabs.com/projects/8a832dfd-f86d-44dd-b15c-89ad324a54a2/analyses/2)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/45afb680-d4e6-4e66-93ea-bcfa79eb8a87.svg)](https://insight.sensiolabs.com/projects/8a832dfd-f86d-44dd-b15c-89ad324a54a2/latest)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://scrutinizer-ci.com/g/GeneaLabs/laravel-whoops-atom/?branch=master)
 [![GitHub (pre-)release](https://img.shields.io/github/release/GeneaLabs/laravel-whoops-atom/all.svg)](https://github.com/GeneaLabs/laravel-whoops-atom)
 [![Packagist](https://img.shields.io/packagist/dt/GeneaLabs/laravel-whoops-atom.svg)](https://packagist.org/packages/genealabs/laravel-whoops-atom)
