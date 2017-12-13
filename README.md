@@ -13,7 +13,7 @@ available for some other editors.
 
 1. Install the package:
    ```sh
-   composer require genealabs/laravel-whoops-atom
+   composer require genealabs/laravel-whoops-atom --dev
    ```
 
 2. Install [Atom Protocol Handler](https://github.com/WizardOfOgz/atom-handler)
