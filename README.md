@@ -16,15 +16,14 @@ available for some other editors.
 ### Dependencies
 - Laravel 5.5.25 or greater
 - PHP 7.0.0 or higher
-- Atom Protocol Handler
+- Atom Open Package
 
 1. Install the package:
    ```sh
    composer require genealabs/laravel-whoops-atom --dev
    ```
 
-2. Install [Atom Protocol Handler](https://github.com/WizardOfOgz/atom-handler)
-as per the instructions provided there.
+2. Install [Atom Open](https://atom.io/packages/open) package.
 
 ## Configuration
 ```php
