@@ -25,7 +25,7 @@ class Service extends ServiceProvider
 
                 $file = str_replace("{$homestead}/", "{$local}/", $file);
 
-                return "atm://open?url=file://{$file}&line={$line}";
+                return "atom://open?url=file://{$file}&line={$line}";
             },
         ]);
     }
