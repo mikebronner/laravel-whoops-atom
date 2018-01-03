@@ -64,5 +64,9 @@ php artisan whoops-atom:publish --config
 ```
 
 ## Usage
+**Warning: this package inserts a closure into a configuration setting. As
+this is intended for development environments only. To work with this, we
+recommend that you don't cache your config settings in your dev environment.**
+
 That was it! It will apply itself automatically to your application
 configuration.
